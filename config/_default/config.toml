@@ -42,6 +42,24 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[params]
+  name = "Alex B Buettner"
+  description = "My life, the website."
+  role = "Big Data Engineer"
+  organization = "Everis USA"
+  organization_url = "http://www.everis.com/"
+  avatar = "abuettner.jpg"
+  email = "alex.buettner93@gmail.com"
+  address = "701 32nd Street S, Birmingham, Alabama 35233"
+  office_hours = ""
+  phone = "(702) 696-8458"
+  skype = "abuettner93"
+  telegram = ""
+  twitter = ""
+  github = "abuettner93"
+  paginate = 10
+
+
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
